@@ -1,2 +1,2 @@
 # android-smart-phone
-It is an Android phone emulator, which you can make call, send message, load airtime.
+It is an Android phone emulator, you can make call, send message, load airtime with it.
