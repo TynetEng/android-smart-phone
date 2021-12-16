@@ -1,1 +1,1 @@
-# android-smart-phone is a replica of Android Phone which can call and recharge. It was built with html, css, bootstrap, scss and javaScript.
+It is an Android phone emulator, you can make call, send message, load airtime with it.
